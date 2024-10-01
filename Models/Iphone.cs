@@ -10,7 +10,7 @@ namespace DesafioPOO.Models
         public override void InstalarAplicativo(string nomeApp)
         {
 
-            Console.WriteLine($" intalanto app {nomeApp} no Iphone");
+            Console.WriteLine($" intalando app {nomeApp} no Iphone");
              
         
         }
